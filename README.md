@@ -2,47 +2,29 @@
 
 <div align="center">
 
-# Hisham Nasur
+# H
 
-### Senior System Administrator | Microsoft Security | AI-Powered Automation Engineer
+### Microsoft Security • AI-Driven IT Automation • Infrastructure Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00C2FF&center=true&vCenter=true&width=900&lines=Microsoft+Security+%26+Infrastructure+Expert;Exchange+%26+Active+Directory+Specialist;AI-Assisted+Automation+Engineer;Claude+ChatGPT+Gemini+Workflow+User;Vibe+Coding+for+IT+Operations" />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00C2FF&center=true&vCenter=true&width=850&lines=Microsoft+Infrastructure+%26+Security+Engineer;Exchange+%26+Active+Directory+Specialist;AI-Powered+Automation+Builder;Claude+ChatGPT+Gemini+Workflow+User;Vibe+Coding+for+IT+Operations" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+<!-- ================= QUICK VISUAL STACK ================= -->
 
-Enterprise IT professional specializing in **Microsoft infrastructure, identity systems, and security operations**.
-
-Currently focused on:
-- AI-assisted IT automation
-- Hybrid enterprise environments
-- Security hardening & identity governance
-- Operational efficiency through intelligent tooling
-
----
-
-# 🧰 Microsoft & Infrastructure Experience
+## ⚙️ Core Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,azure,cloudflare,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=windows,azure,linux,vmware,git,github" />
 
 </div>
 
-### Core Expertise
-- Active Directory (Design, Troubleshooting, Security Hardening)
-- Microsoft Exchange Server (2013–2019, Hybrid Environments)
-- Microsoft Entra ID (Azure AD Identity & Access Management)
-- Windows Server Enterprise Administration
-- VMware vSphere Infrastructure Management
-- Hybrid Cloud Connectivity & Integration
-
 ---
 
-# 🔐 Security & Identity Engineering
+## 🔐 Security & Identity
 
 <div align="center">
 
@@ -50,17 +32,9 @@ Currently focused on:
 
 </div>
 
-### Security Focus Areas
-- Identity & Access Management (IAM)
-- Conditional Access Policies
-- Enterprise Authentication Systems
-- Security Incident Response & RCA
-- Email Security & Transport Protection (Exchange)
-- Audit Logging & Threat Investigation
-
 ---
 
-# 🤖 AI, Automation & Vibe Coding
+## 🤖 AI-Powered Automation
 
 <div align="center">
 
@@ -68,24 +42,41 @@ Currently focused on:
 
 </div>
 
-### AI Stack (No Traditional Programming Dependency)
+### Tools I use for engineering & automation
 
-| AI Tool | Usage |
-|--------|------|
-| 🧠 Claude | Architecture design, reasoning, automation planning |
-| 💬 ChatGPT | Script generation, troubleshooting, ideation |
-| 🌐 Gemini | Research, analysis, multi-source validation |
-
-### Vibe Coding Approach
-- AI-driven script creation instead of manual coding
-- Iterative refinement using conversational prompts
-- Focus on outcomes instead of syntax
-- Rapid automation prototyping for IT operations
-- PowerShell automation built with AI assistance
+- 🧠 Claude — architecture reasoning & automation design  
+- 💬 ChatGPT — scripting support & troubleshooting  
+- 🌐 Gemini — analysis & validation  
 
 ---
 
-# 📈 Activity Graph
+<!-- ================= DIVIDER ================= -->
+
+---
+
+## 🧠 Focus Areas
+
+- Microsoft Security & Identity (Entra ID, AD, Conditional Access)  
+- Exchange Server & Hybrid Infrastructure  
+- Enterprise Monitoring & Operations  
+- AI-driven IT automation (AIOps direction)  
+- PowerShell automation using AI workflows  
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hoshamn&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshamn&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Flow
 
 <div align="center">
 
@@ -95,67 +86,35 @@ Currently focused on:
 
 ---
 
-# 🚀 Current Focus
-
-- AI-driven IT Operations (AIOps)
-- Exchange automation & diagnostics tools
-- Predictive infrastructure failure detection
-- Microsoft Security architecture improvement
-- AI-assisted system troubleshooting workflows
-
----
-
-# 🏆 Certifications & Professional Profile
-
-## 🎓 Official Certifications
-
-- Cisco CCNA — Cisco Certified Network Associate (CSCO111333)
-- Microsoft AI-900 — Azure AI Fundamentals
-- Oracle Cloud Infrastructure 2025 — AI Foundations Associate
-- Oracle Cloud Infrastructure 2025 — Foundations Associate
-- Oracle Cloud Infrastructure 2025 — Architect Associate
-
----
-
-## 📘 Course Completion Certificates
-
-- CCNP — Cisco Certified Network Professional (Training Completed)
-- MCSA — Microsoft Certified System Administrator
-- Microsoft Exchange Server Administration
-- Linux System Administration
-
----
-
-## 🎯 Interests & Direction
-
-- AI-powered IT automation systems
-- Microsoft security engineering
-- Enterprise identity architecture
-- Hybrid cloud modernization
-- Intelligent monitoring & self-healing systems
-
----
-
-# 📬 Contact
+## 🏆 Certifications
 
 <div align="center">
 
-📧 Email: **hoshamn@gmail.com**  
-💼 LinkedIn: **linkedin.com/in/hoshamn**  
-💻 GitHub: **github.com/hoshamn**
+![CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=for-the-badge&logo=cisco)
+![AI-900](https://img.shields.io/badge/AI--900-Microsoft_Al_Fundamentals-0078D4?style=for-the-badge&logo=microsoft)
+![OCI](https://img.shields.io/badge/Oracle_Cloud_AI-Foundations-orange?style=for-the-badge&logo=oracle)
+![Linux](https://img.shields.io/badge/Linux-System_Admin-yellow?style=for-the-badge&logo=linux)
 
 </div>
 
 ---
 
-# ⚡ Engineering Philosophy
-
-> “The future of IT operations is not manual — it is AI-assisted, automated, and self-correcting.”
-
----
+## ⚡ Mindset
 
 <div align="center">
 
-### Built with AI-assisted engineering workflows (Claude + ChatGPT + Gemini)
+> “Automate everything that can be automated. Understand everything that cannot.”
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+📧 **Email:** hoshamn@gmail.com  
+💼 **LinkedIn:** linkedin.com/in/hoshamn  
+💻 **GitHub:** github.com/hoshamn  
 
 </div>
