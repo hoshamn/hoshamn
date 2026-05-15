@@ -1,57 +1,109 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Senior+System+Administrator;Microsoft+Infrastructure+Engineer;Exchange+Server+Expert;PowerShell+Automation+Developer;Cloud+%26+Security+Enthusiast;AI+%2B+IT+Operations+(AIOps)" /> </div>
-🚀 About Me
-💼 Senior System Administrator focused on enterprise Microsoft infrastructure
-🛡️ Specialized in Microsoft Security, Exchange Server, and Hybrid Environments
-⚡ Building advanced automation solutions using PowerShell
-🤖 Exploring AI-powered IT Operations (AIOps) and intelligent infrastructure monitoring
-☁️ Interested in Cloud Security, Infrastructure Automation, and DevOps
-🧠 Currently learning AI Agents, LangChain, and intelligent automation systems
-🔧 Passionate about solving operational challenges through automation
-🛠️ Tech Stack
-Microsoft & Infrastructure
-<p> <img src="https://skillicons.dev/icons?i=windows,powershell,azure,docker,kubernetes,linux,git,github,vscode,postgres" /> </p>
-Core Technologies
-<p> <img src="https://img.shields.io/badge/Microsoft_Exchange-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" /> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_Security-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" /> </p>
-🔥 Current Focus
-- Building AI-powered IT automation tools
-- Advanced PowerShell projects
-- Exchange Server automation & troubleshooting
-- Infrastructure monitoring intelligence
-- Cloud & hybrid security
-- Terraform + VMware automation
-- AI Agents & intelligent workflows
-📌 Featured Projects
-⚡ Intelligent PowerShell Monitoring System
-
-AI-powered server monitoring and predictive error analysis using Windows Event Logs.
-
-🛡️ Exchange Server Automation Toolkit
-
-Advanced scripts for Exchange health checks, remediation, and operational automation.
-
-☁️ Infrastructure as Code Lab
-
-Automating VMware and enterprise infrastructure using Terraform.
-
-🤖 AI Ops Experiments
-
-Combining AI models with operational monitoring and system intelligence.
-
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoshamn&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hoshamn&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshamn&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🧠 Areas of Expertise
-Microsoft Exchange Server
-Active Directory
-Hybrid Infrastructure
-PowerShell Automation
-Microsoft Security
-Infrastructure Monitoring
-VMware Virtualization
-Cloud Security
-Terraform Automation
-AIOps & AI Integration
-🌍 Connect With Me
-<p align="left"> <a href="https://github.com/hoshamn"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/hoshamn/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:hoshamn@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<!-- HEADER -->
 <div align="center">
-⚡ “Automate Everything. Secure Everything. Scale Everything.”
-<img src="https://komarev.com/ghpvc/?username=hoshamn&label=Profile%20Views&color=0e75b6&style=flat" /> </div>
+
+# Hi, I'm H 👋  
+### Senior System Administrator | Microsoft Security | AI x IT Automation
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Microsoft+Security+Engineer;Exchange+%26+Active+Directory+Expert;AI+%2B+IT+Operations+Explorer;PowerShell+Automation+Builder;Claude+%26+Vibe+Coding+Practitioner" />
+</p>
+
+</div>
+
+---
+
+## ⚡ About Me
+
+- 🧠 Senior System Administrator in enterprise environments  
+- 🔐 Focused on Microsoft Security, Identity, and Hybrid Infrastructure  
+- 🤖 Exploring AI-driven IT Operations (AIOps)  
+- ⚙️ Building automation using PowerShell and AI tools  
+- 🚀 Interested in scalable infrastructure and self-healing systems  
+
+---
+
+## 🧰 Tech Stack
+
+### 🪟 Microsoft Ecosystem
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Exchange](https://img.shields.io/badge/Exchange_2019-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-512BD4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🔐 Security & Operations
+![Security](https://img.shields.io/badge/IT_Security-FF6B00?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-2E8B57?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-DC143C?style=for-the-badge)
+
+### ☁️ Automation & Infra
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+---
+
+## 🤖 AI, Claude & Modern Development
+
+### 🧠 AI Stack
+- Claude (Anthropic AI) for reasoning, automation design, and troubleshooting  
+- Claude Code for structured coding workflows and script generation  
+- AI-assisted IT operations (log analysis, incident prediction, automation ideas)  
+
+### ⚡ Vibe Coding Style
+> “Build fast, iterate with AI, refine through logic.”
+
+- Rapid script generation with AI assistance  
+- Minimal boilerplate, maximum outcome  
+- Iterative development instead of traditional long cycles  
+- Focus on solving IT problems, not writing heavy code manually  
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoshamn&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshamn&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔥 Current Focus
+
+- Microsoft Security Expert certification path  
+- Building AI-powered IT operations tools (AIOps)  
+- Automating Exchange & AD troubleshooting  
+- Predictive failure detection using logs + AI  
+- Designing intelligent enterprise infrastructure  
+
+---
+
+## 🚀 Featured Interests
+
+- AI-driven PowerShell automation engines  
+- Smart monitoring systems for enterprise environments  
+- Exchange Server diagnostic automation  
+- Hybrid cloud identity security  
+- Self-healing infrastructure concepts  
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+📧 Email: **hoshamn@gmail.com**  
+💼 LinkedIn: **https://linkedin.com/in/hoshamn**  
+💻 GitHub: **https://github.com/hoshamn**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “The future of IT operations is AI-assisted, automated, and predictive.”
+
+</div>
