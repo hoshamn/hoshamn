@@ -4,82 +4,102 @@
 
 # H
 
-### Senior System Administrator | Microsoft Security | AI x IT Automation
+### Senior System Administrator | Microsoft Security | AI-Powered Automation Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00C2FF&center=true&vCenter=true&width=900&lines=Microsoft+Security+Engineer;Exchange+%26+Active+Directory+Specialist;AI+Driven+IT+Operations;PowerShell+Automation+Builder;Claude+%26+Vibe+Coding+Practitioner" />
-
----
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00C2FF&center=true&vCenter=true&width=900&lines=Microsoft+Security+%26+Infrastructure+Expert;Exchange+%26+Active+Directory+Specialist;AI-Assisted+Automation+Engineer;Claude+ChatGPT+Gemini+Workflow+User;Vibe+Coding+for+IT+Operations" />
 
 </div>
 
 ---
 
-<!-- ================= SKILLS ICON GRID ================= -->
+# 🧠 About Me
 
-## 🧰 Core Technology Stack
+Enterprise IT professional specializing in **Microsoft infrastructure, identity systems, and security operations**.
+
+Currently focused on:
+- AI-assisted IT automation
+- Hybrid enterprise environments
+- Security hardening & identity governance
+- Operational efficiency through intelligent tooling
+
+---
+
+# 🧰 Microsoft & Infrastructure Experience
 
 <div align="center">
 
-### Microsoft & Infrastructure
-<img src="https://skillicons.dev/icons?i=windows,azure,powershell,vmware,linux,git" />
-
-### Security & Identity
-<img src="https://skillicons.dev/icons?i=azure,github,cloudflare" />
-
-### Automation & Development
-<img src="https://skillicons.dev/icons?i=python,bash,js" />
+<img src="https://skillicons.dev/icons?i=windows,azure,cloudflare,linux,git,github" />
 
 </div>
 
----
-
-<!-- ================= QUICK PROFILE ================= -->
-
-## ⚡ Snapshot
-
-- 🔐 Microsoft Security & Identity Specialist  
-- 📧 Exchange Server & Hybrid Infrastructure Expert  
-- ⚙️ PowerShell Automation Engineer  
-- 🤖 AI-assisted IT Operations (Claude + Claude Code)  
-- 🚀 Building intelligent infrastructure automation systems  
+### Core Expertise
+- Active Directory (Design, Troubleshooting, Security Hardening)
+- Microsoft Exchange Server (2013–2019, Hybrid Environments)
+- Microsoft Entra ID (Azure AD Identity & Access Management)
+- Windows Server Enterprise Administration
+- VMware vSphere Infrastructure Management
+- Hybrid Cloud Connectivity & Integration
 
 ---
 
-<!-- ================= AI STACK VISUAL ================= -->
-
-## 🤖 AI & Modern Engineering Stack
+# 🔐 Security & Identity Engineering
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,linux" />
+
+</div>
+
+### Security Focus Areas
+- Identity & Access Management (IAM)
+- Conditional Access Policies
+- Enterprise Authentication Systems
+- Security Incident Response & RCA
+- Email Security & Transport Protection (Exchange)
+- Audit Logging & Threat Investigation
+
+---
+
+# 🤖 AI, Automation & Vibe Coding
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ai" />
+
+</div>
+
+### AI Stack (No Traditional Programming Dependency)
 
 | AI Tool | Usage |
 |--------|------|
-| 🧠 Claude | Architecture reasoning & troubleshooting |
-| 💻 Claude Code | Code generation & automation workflows |
-| ⚡ Vibe Coding | Fast iterative AI-assisted development |
+| 🧠 Claude | Architecture design, reasoning, automation planning |
+| 💬 ChatGPT | Script generation, troubleshooting, ideation |
+| 🌐 Gemini | Research, analysis, multi-source validation |
 
-</div>
+### Vibe Coding Approach
+- AI-driven script creation instead of manual coding
+- Iterative refinement using conversational prompts
+- Focus on outcomes instead of syntax
+- Rapid automation prototyping for IT operations
+- PowerShell automation built with AI assistance
 
 ---
 
-<!-- ================= DIVIDER ================= -->
-
----
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics (Stable Version)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoshamn&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=hoshamn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshamn&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshamn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-## 🔥 Activity Graph
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -89,51 +109,67 @@
 
 ---
 
-<!-- ================= FOCUS AREAS ================= -->
+# 🚀 Current Focus
 
-## 🚀 Current Focus
-
-- AI-driven IT Operations (AIOps)  
-- Exchange automation & diagnostics systems  
-- Predictive failure detection using logs  
-- Enterprise identity security hardening  
-- PowerShell intelligent automation engines  
+- AI-driven IT Operations (AIOps)
+- Exchange automation & diagnostics tools
+- Predictive infrastructure failure detection
+- Microsoft Security architecture improvement
+- AI-assisted system troubleshooting workflows
 
 ---
 
-<!-- ================= BADGES SECTION ================= -->
+# 🏆 Certifications & Professional Profile
 
-## 🏆 Certifications & Interests
+## 🎓 Official Certifications
+
+- Cisco CCNA — Cisco Certified Network Associate (CSCO111333)
+- Microsoft AI-900 — Azure AI Fundamentals
+- Oracle Cloud Infrastructure 2025 — AI Foundations Associate
+- Oracle Cloud Infrastructure 2025 — Foundations Associate
+- Oracle Cloud Infrastructure 2025 — Architect Associate
+
+---
+
+## 📘 Course Completion Certificates
+
+- CCNP — Cisco Certified Network Professional (Training Completed)
+- MCSA — Microsoft Certified System Administrator
+- Microsoft Exchange Server Administration
+- Linux System Administration
+
+---
+
+## 🎯 Interests & Direction
+
+- AI-powered IT automation systems
+- Microsoft security engineering
+- Enterprise identity architecture
+- Hybrid cloud modernization
+- Intelligent monitoring & self-healing systems
+
+---
+
+# 📬 Contact
 
 <div align="center">
 
-![Microsoft](https://img.shields.io/badge/Microsoft_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Engineering-00C2FF?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-FF6B00?style=for-the-badge)
-![Security](https://img.shields.io/badge/Cyber_Security-DC143C?style=for-the-badge)
+📧 Email: **hoshamn@gmail.com**  
+💼 LinkedIn: **linkedin.com/in/hoshamn**  
+💻 GitHub: **github.com/hoshamn**
 
 </div>
 
 ---
 
-<!-- ================= CONTACT ================= -->
+# ⚡ Engineering Philosophy
 
-## 📬 Contact
-
-<div align="center">
-
-📧 **Email:** <b>hoshamn@gmail.com</b>  
-💼 **LinkedIn:** <b>linkedin.com/in/hoshamn</b>  
-💻 **GitHub:** <b>github.com/hoshamn</b>
-
-</div>
+> “The future of IT operations is not manual — it is AI-assisted, automated, and self-correcting.”
 
 ---
 
-<!-- ================= FOOTER ================= -->
-
 <div align="center">
 
-### ⚡ “Automation wins. Manual operations disappear.”
+### Built with AI-assisted engineering workflows (Claude + ChatGPT + Gemini)
 
 </div>
