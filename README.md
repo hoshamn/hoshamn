@@ -86,18 +86,6 @@
 
 <!-- ================= LIVE METRICS ================= -->
 
-## 📊 Engineering Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hoshamn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshamn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
-
----
-
 ## 📈 System Activity Flow
 
 <div align="center">
