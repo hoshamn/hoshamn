@@ -1,20 +1,24 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HERO SECTION ================= -->
 
 <div align="center">
 
 # Hisham Nasur
 
-### Microsoft Security • AI-Driven IT Automation • Infrastructure Engineering
+### AI-Augmented Infrastructure Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=00C2FF&center=true&vCenter=true&width=850&lines=Microsoft+Infrastructure+%26+Security+Engineer;Exchange+%26+Active+Directory+Specialist;AI-Powered+Automation+Builder;Claude+ChatGPT+Gemini+Workflow+User;Vibe+Coding+for+IT+Operations" />
+### Microsoft Security • Automation • Hybrid Systems
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&color=00C2FF&center=true&vCenter=true&width=900&lines=Microsoft+Security+%26+Identity+Engineering;Exchange+%26+Enterprise+Infrastructure;AI-Assisted+Automation+Systems;Claude+%7C+ChatGPT+%7C+Gemini+Workflow;Vibe+Coding+for+IT+Operations" />
+
+<br/>
 
 </div>
 
 ---
 
-<!-- ================= QUICK VISUAL STACK ================= -->
+<!-- ================= VISUAL IDENTITY STRIP ================= -->
 
-## ⚙️ Core Stack
+## ⚡ Core Stack
 
 <div align="center">
 
@@ -24,17 +28,7 @@
 
 ---
 
-## 🔐 Security & Identity
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,linux" />
-
-</div>
-
----
-
-## 🤖 AI-Powered Automation
+## 🤖 AI Engineering Layer
 
 <div align="center">
 
@@ -42,11 +36,13 @@
 
 </div>
 
-### Tools I use for engineering & automation
+### AI Workflow Engine
 
-- 🧠 Claude — architecture reasoning & automation design  
-- 💬 ChatGPT — scripting support & troubleshooting  
-- 🌐 Gemini — analysis & validation  
+- 🧠 Claude → System design, reasoning, automation architecture  
+- 💬 ChatGPT → Scripting, troubleshooting, rapid iteration  
+- 🌐 Gemini → Research, validation, multi-source analysis  
+
+> “AI is not a tool — it is the execution layer of my engineering workflow.”
 
 ---
 
@@ -54,17 +50,55 @@
 
 ---
 
-## 🧠 Focus Areas
+## 🧠 What I Build
 
-- Microsoft Security & Identity (Entra ID, AD, Conditional Access)  
-- Exchange Server & Hybrid Infrastructure  
-- Enterprise Monitoring & Operations  
-- AI-driven IT automation (AIOps direction)  
-- PowerShell automation using AI workflows  
+<div align="center">
+
+### Intelligent Infrastructure Systems
+
+</div>
+
+- Self-diagnosing Microsoft environments  
+- Automated Exchange troubleshooting systems  
+- AI-assisted PowerShell automation engines  
+- Predictive monitoring & failure detection logic  
+- Hybrid cloud identity security models  
 
 ---
 
-## 📈 Contribution Flow
+## 🔐 Domain Focus
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,windows,linux" />
+
+</div>
+
+### Enterprise Systems
+
+- Active Directory & Entra ID architecture  
+- Exchange Server & mail flow engineering  
+- Identity security & conditional access  
+- Hybrid infrastructure design  
+- Enterprise monitoring systems  
+
+---
+
+<!-- ================= LIVE METRICS ================= -->
+
+## 📊 Engineering Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hoshamn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshamn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+---
+
+## 📈 System Activity Flow
 
 <div align="center">
 
@@ -74,35 +108,62 @@
 
 ---
 
+<!-- ================= IDENTITY SECTION ================= -->
+
+## ⚙️ Engineering Philosophy
+
+<div align="center">
+
+> “Infrastructure should be observable, automated, and increasingly autonomous.”
+
+</div>
+
+---
+
+## 🚀 Current Direction
+
+- AI-driven IT Operations (AIOps evolution)  
+- Microsoft security modernization  
+- Exchange automation & diagnostics intelligence  
+- Predictive infrastructure monitoring systems  
+- PowerShell automation enhanced with AI reasoning  
+
+---
+
+<!-- ================= CERTIFICATIONS STRIP ================= -->
+
 ## 🏆 Certifications
 
 <div align="center">
 
 ![CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=for-the-badge&logo=cisco)
-![AI-900](https://img.shields.io/badge/AI--900-Microsoft_Al_Fundamentals-0078D4?style=for-the-badge&logo=microsoft)
-![OCI](https://img.shields.io/badge/Oracle_Cloud_AI-Foundations-orange?style=for-the-badge&logo=oracle)
-![Linux](https://img.shields.io/badge/Linux-System_Admin-yellow?style=for-the-badge&logo=linux)
+![AI-900](https://img.shields.io/badge/AI--900-Microsoft_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft)
+![OCI AI](https://img.shields.io/badge/Oracle_AI_Foundations-2025-orange?style=for-the-badge&logo=oracle)
+![OCI Architect](https://img.shields.io/badge/OCI_Architect_Associate-2025-red?style=for-the-badge&logo=oracle)
+![Linux](https://img.shields.io/badge/Linux_System_Admin-yellow?style=for-the-badge&logo=linux)
 
 </div>
 
 ---
 
-## ⚡ Mindset
+<!-- ================= CONTACT ================= -->
+
+## 📬 Connect
 
 <div align="center">
 
-> “Automate everything that can be automated. Understand everything that cannot.”
+📧 **Email:** <b>hoshamn@gmail.com</b>  
+💼 **LinkedIn:** <b>linkedin.com/in/hoshamn</b>  
+💻 **GitHub:** <b>github.com/hoshamn</b>  
 
 </div>
 
 ---
 
-## 📬 Contact
+<!-- ================= FOOTER ================= -->
 
 <div align="center">
 
-📧 **Email:** hoshamn@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/hoshamn  
-💻 **GitHub:** github.com/hoshamn  
+### ⚡ Built as an AI-augmented engineering identity
 
 </div>
