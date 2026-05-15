@@ -6,7 +6,7 @@
 
 ### AI-Augmented Infrastructure Engineer
 
-### Microsoft Security • Automation • Hybrid Systems
+### Microsoft • Automation • Hybrid Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&color=00C2FF&center=true&vCenter=true&width=900&lines=Microsoft+Security+%26+Identity+Engineering;Exchange+%26+Enterprise+Infrastructure;AI-Assisted+Automation+Systems;Claude+%7C+ChatGPT+%7C+Gemini+Workflow;Vibe+Coding+for+IT+Operations" />
 
